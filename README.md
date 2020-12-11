@@ -1,2 +1,2 @@
 # Logica-de-Programacao
- ExemplosdeLogica
+ Programas utilizando lógica de programação
