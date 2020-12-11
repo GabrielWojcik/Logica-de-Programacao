@@ -1,2 +1,2 @@
-# Logica-de-Programacao
+# Lógica-de-Programacao
  Programas utilizando lógica de programação
